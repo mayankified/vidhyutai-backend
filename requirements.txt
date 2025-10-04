@@ -9,7 +9,7 @@ python-dotenv
 tensorflow
 scikit-learn
 pandas
-bcrypt
+bcrypt==3.2.0
 tensorflow
 scikit-learn
 pandas
