@@ -4,8 +4,13 @@ fastapi
 uvicorn[standard]
 pydantic[email]
 python-jose[cryptography]
-passlib[bcrypt]
+passlib==1.7.4
 python-dotenv
 tensorflow
 scikit-learn
 pandas
+bcrypt
+tensorflow
+scikit-learn
+pandas
+xgboost
